@@ -2,6 +2,7 @@ pandas
 openpyxl
 python-docx
 PyPDF2
+pdfplumber
 langchain
 openai
 streamlit
