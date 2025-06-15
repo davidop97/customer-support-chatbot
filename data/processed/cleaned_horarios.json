@@ -1,0 +1,262 @@
+[
+  {
+    "sucursal": "Sucursal Centro",
+    "direccion": "Av. Principal #123",
+    "horario": {
+      "lunes": "7:00 a.m. - 10:00 p.m.",
+      "martes": "7:00 a.m. - 10:00 p.m.",
+      "miercoles": "7:00 a.m. - 10:00 p.m.",
+      "jueves": "7:00 a.m. - 10:00 p.m.",
+      "viernes": "7:00 a.m. - 10:00 p.m.",
+      "sabado": "7:00 a.m. - 10:00 p.m.",
+      "domingo": "7:00 a.m. - 10:00 p.m."
+    }
+  },
+  {
+    "sucursal": "Sucursal Norte",
+    "direccion": "Calle 100 #25-80",
+    "horario": {
+      "lunes": "8:00 a.m. - 9:00 p.m.",
+      "martes": "8:00 a.m. - 9:00 p.m.",
+      "miercoles": "8:00 a.m. - 9:00 p.m.",
+      "jueves": "8:00 a.m. - 9:00 p.m.",
+      "viernes": "8:00 a.m. - 9:00 p.m.",
+      "sabado": "8:00 a.m. - 9:00 p.m.",
+      "domingo": "8:00 a.m. - 6:00 p.m."
+    }
+  },
+  {
+    "sucursal": "Sucursal Sur",
+    "direccion": "Carrera 45 #15-50",
+    "horario": {
+      "lunes": "7:00 a.m. - 10:00 p.m.",
+      "martes": "7:00 a.m. - 10:00 p.m.",
+      "miercoles": "7:00 a.m. - 10:00 p.m.",
+      "jueves": "7:00 a.m. - 10:00 p.m.",
+      "viernes": "7:00 a.m. - 10:00 p.m.",
+      "sabado": "7:00 a.m. - 10:00 p.m.",
+      "domingo": "7:00 a.m. - 10:00 p.m."
+    }
+  },
+  {
+    "sucursal": "Sucursal Occidente",
+    "direccion": "Calle 80 #50-20",
+    "horario": {
+      "lunes": "8:00 a.m. - 9:00 p.m.",
+      "martes": "8:00 a.m. - 9:00 p.m.",
+      "miercoles": "8:00 a.m. - 9:00 p.m.",
+      "jueves": "8:00 a.m. - 9:00 p.m.",
+      "viernes": "8:00 a.m. - 9:00 p.m.",
+      "sabado": "8:00 a.m. - 9:00 p.m.",
+      "domingo": "8:00 a.m. - 9:00 p.m."
+    }
+  },
+  {
+    "sucursal": "Sucursal Oriente",
+    "direccion": "Av. Las Palmas #70",
+    "horario": {
+      "lunes": "8:00 a.m. - 9:00 p.m.",
+      "martes": "8:00 a.m. - 9:00 p.m.",
+      "miercoles": "8:00 a.m. - 9:00 p.m.",
+      "jueves": "8:00 a.m. - 9:00 p.m.",
+      "viernes": "8:00 a.m. - 9:00 p.m.",
+      "sabado": "9:00 a.m. - 7:00 p.m.",
+      "domingo": "9:00 a.m. - 7:00 p.m."
+    }
+  },
+  {
+    "sucursal": "Sucursal Altavista",
+    "direccion": "Transversal 20 #34-60",
+    "horario": {
+      "lunes": "9:00 a.m. - 9:00 p.m.",
+      "martes": "9:00 a.m. - 9:00 p.m.",
+      "miercoles": "9:00 a.m. - 9:00 p.m.",
+      "jueves": "9:00 a.m. - 9:00 p.m.",
+      "viernes": "9:00 a.m. - 9:00 p.m.",
+      "sabado": "9:00 a.m. - 9:00 p.m.",
+      "domingo": "9:00 a.m. - 9:00 p.m."
+    }
+  },
+  {
+    "sucursal": "Sucursal San Pedro",
+    "direccion": "Calle 33 #12-11",
+    "horario": {
+      "lunes": "7:30 a.m. - 9:30 p.m.",
+      "martes": "7:30 a.m. - 9:30 p.m.",
+      "miercoles": "7:30 a.m. - 9:30 p.m.",
+      "jueves": "7:30 a.m. - 9:30 p.m.",
+      "viernes": "7:30 a.m. - 9:30 p.m.",
+      "sabado": "7:30 a.m. - 9:30 p.m.",
+      "domingo": "8:00 a.m. - 8:00 p.m."
+    }
+  },
+  {
+    "sucursal": "Sucursal La Playa",
+    "direccion": "Av. Costera #105",
+    "horario": {
+      "lunes": "6:30 a.m. - 10:30 p.m.",
+      "martes": "6:30 a.m. - 10:30 p.m.",
+      "miercoles": "6:30 a.m. - 10:30 p.m.",
+      "jueves": "6:30 a.m. - 10:30 p.m.",
+      "viernes": "6:30 a.m. - 10:30 p.m.",
+      "sabado": "6:30 a.m. - 10:30 p.m.",
+      "domingo": "6:30 a.m. - 10:30 p.m."
+    }
+  },
+  {
+    "sucursal": "Sucursal El Prado",
+    "direccion": "Carrera 5 #8-90",
+    "horario": {
+      "lunes": "8:00 a.m. - 8:00 p.m.",
+      "martes": "8:00 a.m. - 8:00 p.m.",
+      "miercoles": "8:00 a.m. - 8:00 p.m.",
+      "jueves": "8:00 a.m. - 8:00 p.m.",
+      "viernes": "8:00 a.m. - 8:00 p.m.",
+      "sabado": "9:00 a.m. - 6:00 p.m.",
+      "domingo": "9:00 a.m. - 6:00 p.m."
+    }
+  },
+  {
+    "sucursal": "Sucursal Vista Hermosa",
+    "direccion": "Calle 67 #45-20",
+    "horario": {
+      "lunes": "7:00 a.m. - 10:00 p.m.",
+      "martes": "7:00 a.m. - 10:00 p.m.",
+      "miercoles": "7:00 a.m. - 10:00 p.m.",
+      "jueves": "7:00 a.m. - 10:00 p.m.",
+      "viernes": "7:00 a.m. - 10:00 p.m.",
+      "sabado": "7:00 a.m. - 10:00 p.m.",
+      "domingo": "7:00 a.m. - 10:00 p.m."
+    }
+  },
+  {
+    "sucursal": "Sucursal Universitaria",
+    "direccion": "Av. Universitaria #50",
+    "horario": {
+      "lunes": "7:00 a.m. - 8:00 p.m.",
+      "martes": "7:00 a.m. - 8:00 p.m.",
+      "miercoles": "7:00 a.m. - 8:00 p.m.",
+      "jueves": "7:00 a.m. - 8:00 p.m.",
+      "viernes": "7:00 a.m. - 8:00 p.m.",
+      "sabado": "9:00 a.m. - 5:00 p.m.",
+      "domingo": "9:00 a.m. - 5:00 p.m."
+    }
+  },
+  {
+    "sucursal": "Sucursal Las Lomas",
+    "direccion": "Calle 55 #11-40",
+    "horario": {
+      "lunes": "8:00 a.m. - 9:00 p.m.",
+      "martes": "8:00 a.m. - 9:00 p.m.",
+      "miercoles": "8:00 a.m. - 9:00 p.m.",
+      "jueves": "8:00 a.m. - 9:00 p.m.",
+      "viernes": "8:00 a.m. - 9:00 p.m.",
+      "sabado": "8:00 a.m. - 9:00 p.m.",
+      "domingo": "8:00 a.m. - 9:00 p.m."
+    }
+  },
+  {
+    "sucursal": "Sucursal El Bosque",
+    "direccion": "Av. Central #300",
+    "horario": {
+      "lunes": "7:00 a.m. - 10:00 p.m.",
+      "martes": "7:00 a.m. - 10:00 p.m.",
+      "miercoles": "7:00 a.m. - 10:00 p.m.",
+      "jueves": "7:00 a.m. - 10:00 p.m.",
+      "viernes": "7:00 a.m. - 10:00 p.m.",
+      "sabado": "7:00 a.m. - 10:00 p.m.",
+      "domingo": "7:00 a.m. - 10:00 p.m."
+    }
+  },
+  {
+    "sucursal": "Sucursal Portal Sur",
+    "direccion": "Carrera 70 #10-20",
+    "horario": {
+      "lunes": "8:00 a.m. - 8:00 p.m.",
+      "martes": "8:00 a.m. - 8:00 p.m.",
+      "miercoles": "8:00 a.m. - 8:00 p.m.",
+      "jueves": "8:00 a.m. - 8:00 p.m.",
+      "viernes": "8:00 a.m. - 8:00 p.m.",
+      "sabado": "9:00 a.m. - 6:00 p.m.",
+      "domingo": "9:00 a.m. - 6:00 p.m."
+    }
+  },
+  {
+    "sucursal": "Sucursal Santa Clara",
+    "direccion": "Calle 42 #7-25",
+    "horario": {
+      "lunes": "9:00 a.m. - 9:00 p.m.",
+      "martes": "9:00 a.m. - 9:00 p.m.",
+      "miercoles": "9:00 a.m. - 9:00 p.m.",
+      "jueves": "9:00 a.m. - 9:00 p.m.",
+      "viernes": "9:00 a.m. - 9:00 p.m.",
+      "sabado": "9:00 a.m. - 9:00 p.m.",
+      "domingo": "9:00 a.m. - 9:00 p.m."
+    }
+  },
+  {
+    "sucursal": "Sucursal Industrial",
+    "direccion": "Zona Industrial Calle 4 #60",
+    "horario": {
+      "lunes": "6:00 a.m. - 6:00 p.m.",
+      "martes": "6:00 a.m. - 6:00 p.m.",
+      "miercoles": "6:00 a.m. - 6:00 p.m.",
+      "jueves": "6:00 a.m. - 6:00 p.m.",
+      "viernes": "6:00 a.m. - 6:00 p.m.",
+      "sabado": "7:00 a.m. - 1:00 p.m.",
+      "domingo": null
+    }
+  },
+  {
+    "sucursal": "Sucursal Terminal",
+    "direccion": "Terminal de Transportes, Módulo 2",
+    "horario": {
+      "lunes": "6:00 a.m. - 11:00 p.m.",
+      "martes": "6:00 a.m. - 11:00 p.m.",
+      "miercoles": "6:00 a.m. - 11:00 p.m.",
+      "jueves": "6:00 a.m. - 11:00 p.m.",
+      "viernes": "6:00 a.m. - 11:00 p.m.",
+      "sabado": "6:00 a.m. - 11:00 p.m.",
+      "domingo": "6:00 a.m. - 11:00 p.m."
+    }
+  },
+  {
+    "sucursal": "Sucursal El Lago",
+    "direccion": "Av. Circunvalar #250",
+    "horario": {
+      "lunes": "7:00 a.m. - 9:00 p.m.",
+      "martes": "7:00 a.m. - 9:00 p.m.",
+      "miercoles": "7:00 a.m. - 9:00 p.m.",
+      "jueves": "7:00 a.m. - 9:00 p.m.",
+      "viernes": "7:00 a.m. - 9:00 p.m.",
+      "sabado": "7:00 a.m. - 9:00 p.m.",
+      "domingo": "8:00 a.m. - 7:00 p.m."
+    }
+  },
+  {
+    "sucursal": "Sucursal Country Club",
+    "direccion": "Calle 84 #40-11",
+    "horario": {
+      "lunes": "8:00 a.m. - 9:00 p.m.",
+      "martes": "8:00 a.m. - 9:00 p.m.",
+      "miercoles": "8:00 a.m. - 9:00 p.m.",
+      "jueves": "8:00 a.m. - 9:00 p.m.",
+      "viernes": "8:00 a.m. - 9:00 p.m.",
+      "sabado": "8:00 a.m. - 9:00 p.m.",
+      "domingo": "8:00 a.m. - 9:00 p.m."
+    }
+  },
+  {
+    "sucursal": "Sucursal Monteverde",
+    "direccion": "Carrera 22 #33-77",
+    "horario": {
+      "lunes": "7:00 a.m. - 10:00 p.m.",
+      "martes": "7:00 a.m. - 10:00 p.m.",
+      "miercoles": "7:00 a.m. - 10:00 p.m.",
+      "jueves": "7:00 a.m. - 10:00 p.m.",
+      "viernes": "7:00 a.m. - 10:00 p.m.",
+      "sabado": "7:00 a.m. - 10:00 p.m.",
+      "domingo": "7:00 a.m. - 10:00 p.m."
+    }
+  }
+]

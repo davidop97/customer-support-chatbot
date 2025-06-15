@@ -1,0 +1,11 @@
+pandas
+openpyxl
+python-docx
+PyPDF2
+langchain
+openai
+streamlit
+pytest
+python-dotenv
+faiss-cpu  
+
