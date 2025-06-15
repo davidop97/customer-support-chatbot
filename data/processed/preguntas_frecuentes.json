@@ -47,16 +47,38 @@
   {
     "categoria": "pagos-y-facturación",
     "pregunta": "¿Qué medios de pago aceptan en tienda?",
-    "respuesta": "En nuestras sucursales físicas puedes pagar con: Efectivo Tarjetas débito y crédito (Visa, MasterCard, American Express) Vales empresariales y bonos de alimentación Billeteras digitales (Google Pay, Apple Pay, etc.)"
+    "respuesta": {
+      "texto": "En nuestras sucursales físicas puedes pagar con:",
+      "items": [
+        "Efectivo",
+        "Tarjetas débito y crédito (Visa, MasterCard, American Express)",
+        "Vales empresariales y bonos de alimentación",
+        "Billeteras digitales (Google Pay, Apple Pay, etc.)"
+      ]
+    }
   },
   {
     "categoria": "pagos-y-facturación",
     "pregunta": "¿Qué medios de pago aceptan en la tienda en línea?",
-    "respuesta": "En compras por la web o app aceptamos: Tarjetas débito y crédito (Visa, MasterCard, American Express) PSE (Pagos desde cuenta bancaria) Billeteras digitales (Google Pay, Apple Pay, etc.)"
+    "respuesta": {
+      "texto": "En compras por la web o app aceptamos:",
+      "items": [
+        "Tarjetas débito y crédito (Visa, MasterCard, American Express)",
+        "PSE (Pagos desde cuenta bancaria)",
+        "Billeteras digitales (Google Pay, Apple Pay, etc.)"
+      ]
+    }
   },
   {
     "categoria": "pagos-y-facturación",
     "pregunta": "¿Cómo solicito mi factura electrónica?",
-    "respuesta": "Solicítala en caja o al finalizar tu compra en línea. Ten en cuenta que para eso debes registrar previamente tus datos en el formulario web de facturación. Sigue estos pasos: Ingresa a nuestra página web y dirígete a la sección “Factura Electrónica”. Diligencia el formulario con tus datos: nombre o razón social, NIT o cédula, dirección, correo electrónico y número de pedido. Envía el formulario."
+    "respuesta": {
+      "texto": "Solicítala en caja o al finalizar tu compra en línea. Ten en cuenta que para eso debes registrar previamente tus datos en el formulario web de facturación. Sigue estos pasos:",
+      "items": [
+        "Ingresa a nuestra página web y dirígete a la sección “Factura Electrónica”.",
+        "Diligencia el formulario con tus datos: nombre o razón social, NIT o cédula, dirección, correo electrónico y número de pedido.",
+        "Envía el formulario."
+      ]
+    }
   }
 ]
