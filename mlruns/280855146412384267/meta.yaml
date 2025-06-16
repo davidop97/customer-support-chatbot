@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Usuario/Desktop/customer-support-chatbot/mlruns/280855146412384267
+creation_time: 1750058005317
+experiment_id: '280855146412384267'
+last_update_time: 1750058005317
+lifecycle_stage: active
+name: vectorstore_build

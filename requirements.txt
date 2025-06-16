@@ -8,5 +8,9 @@ openai
 streamlit
 pytest
 python-dotenv
-faiss-cpu  
+faiss-cpu 
+mlflow 
+langchain-community
+langchain-openai
+SQLAlchemy
 
