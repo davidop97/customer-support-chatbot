@@ -1,0 +1,22 @@
+pregunta,esperada,obtenida,latency,similarity,match
+¿Cuál es el horario de atención de las tiendas físicas?,El horario de atención de cada sucursal está disponible en nuestra página web www.supermercado.com.co,El horario de atención de cada sucursal está disponible en nuestra página web www.supermercado.com.co.,2.709091901779175,0.9897456454290354,1
+¿Tienen horario especial en festivos o temporadas altas?,"Sí, se informa con anticipación en redes sociales y en la página de inicio.","Sí, tenemos horario especial en festivos o temporadas altas. Se informa con anticipación en nuestras redes sociales y en la página de inicio.",1.8599348068237305,0.9195715046382119,1
+¿Puedo hacer pedidos en línea?,Sí. Contamos con atención personalizada por WhatsApp 3009999999 y también puedes comprar por nuestra página web www.supermercado.com.co.,"Sí, puedes hacer pedidos en línea. Contamos con atención personalizada por WhatsApp al 3009999999 y también puedes comprar a través de nuestra página web www.supermercado.com.co.",1.7154262065887451,0.9742861869142591,1
+¿Cuánto tiempo tarda el domicilio?,Entre 2 y 4 horas dependiendo de la ubicación. Puedes agendarlo para una franja horaria específica.,"El domicilio tarda entre 2 y 4 horas, dependiendo de la ubicación. También puedes agendarlo para una franja horaria específica.",1.381911277770996,0.9503197878423204,1
+¿Qué zonas cubren con el servicio de domicilio?,Actualmente cubrimos toda el área metropolitana. Consulta tu dirección al finalizar la compra.,Actualmente cubrimos toda el área metropolitana. Puedes consultar tu dirección al finalizar la compra para más detalles.,1.3437247276306152,0.9926133260274014,1
+¿Puedo modificar un pedido después de haberlo enviado?,Solo si aún no ha sido despachado. Comunícate de inmediato al WhatsApp de servicio al cliente 3009999999.,Solo puedes modificar un pedido después de haberlo enviado si aún no ha sido despachado. Te recomiendo comunicarte de inmediato al WhatsApp de servicio al cliente 3009999999 para gestionar cualquier cambio.,2.1430561542510986,0.9186725474397938,1
+¿Puedo recoger mi pedido en tienda?,"Sí, puedes seleccionar la opción ""Recoger en tienda"" y te avisaremos cuando esté listo.","Sí, puedes seleccionar la opción ""Recoger en tienda"" y te avisaremos cuando esté listo.",1.216620922088623,1.0,1
+¿Cuál es el costo del domicilio?,"El valor del domicilio varía según la distancia, pero es gratuito por compras superiores a $100.000 COP.","El valor del domicilio varía según la distancia, pero es gratuito por compras superiores a $100.000 COP.",1.9674644470214844,1.0000000000000002,1
+¿Qué hago si un producto llega en mal estado o no corresponde a mi pedido?,Contáctanos en un máximo de 24 horas después de la entrega al correo servicioalcliente@supermercado.com.co o por WhatsApp. Te haremos cambio o devolución sin costo.,"Si un producto llega en mal estado o no corresponde a tu pedido, contáctanos en un máximo de 24 horas después de la entrega al correo servicioalcliente@supermercado.com.co o por WhatsApp. Te haremos cambio o devolución sin costo.",1.2545299530029297,0.9749346525825654,1
+¿Qué medios de pago aceptan en tienda?,En nuestras sucursales físicas puedes pagar con:,"En nuestras sucursales físicas puedes pagar con:
+
+- Efectivo
+- Tarjetas débito y crédito (Visa, MasterCard, American Express)
+- Vales empresariales y bonos de alimentación
+- Billeteras digitales (Google Pay, Apple Pay, etc.)",2.1243743896484375,0.9431867661192249,1
+¿Qué medios de pago aceptan en la tienda en línea?,En compras por la web o app aceptamos:,"En la tienda en línea aceptamos los siguientes medios de pago: tarjetas débito y crédito (Visa, MasterCard, American Express), PSE (pagos desde cuenta bancaria) y billeteras digitales (Google Pay, Apple Pay, etc.).",1.4243781566619873,0.8826999312413574,1
+¿Cómo solicito mi factura electrónica?,Solicítala en caja o al finalizar tu compra en línea. Ten en cuenta que para eso debes registrar previamente tus datos en el formulario web de facturación. Sigue estos pasos:,"Para solicitar tu factura electrónica, puedes hacerlo en caja o al finalizar tu compra en línea. Asegúrate de haber registrado previamente tus datos en el formulario web de facturación. Sigue estos pasos:
+
+1. Ingresa a nuestra página web y dirígete a la sección “Factura Electrónica”.
+2. Diligencia el formulario con tus datos: nombre o razón social, NIT o cédula, dirección, correo electrónico y número de pedido.
+3. Envía el formulario.",1.5081150531768799,0.926502200928094,1

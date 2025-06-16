@@ -7,7 +7,6 @@ from datetime import datetime
 # Cargar URL de la base de datos desde variables de entorno
 DATABASE_URL = os.getenv("DATABASE_URL", "sqlite:///./test.db")
 
-
 # Configuración del motor y la sesión
 engine = create_engine(DATABASE_URL, echo=False)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
@@ -23,23 +22,16 @@ class Cliente(Base):
     fecha_registro = Column(DateTime, default=datetime.utcnow)
 
 def init_db():
-    """
-    Crea las tablas en la base de datos.
-    Ejecutar al inicio de la aplicación o vía script.
-    """
+    """Crea las tablas en la base de datos."""
     Base.metadata.create_all(bind=engine)
+
 def get_db() -> Generator[Session, None, None]:
-    """
-    Dependencia para obtener una sesión de DB.
-    """
+    """Dependencia para obtener una sesión de DB."""
     db = SessionLocal()
     try:
         yield db
     finally:
         db.close()
-        db.close()
-
-# Operaciones CRUD básicas
 
 def get_cliente_por_identificacion(db: Session, identificacion: str):
     return db.query(Cliente).filter(Cliente.identificacion == identificacion).first()
@@ -55,9 +47,3 @@ def create_cliente(db: Session, identificacion: str, nombre: str, telefono: str,
     db.commit()
     db.refresh(cliente)
     return cliente
-
-# Ejemplo de uso en script
-if __name__ == "__main__":
-    # Inicializar base de datos
-    init_db()
-    print(" Tablas creadas en la base de datos.")

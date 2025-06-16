@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Usuario/Desktop/customer-support-chatbot/mlruns/518517927355136816/0c2b2e1e3de046ebb587204bd0c327c9/artifacts
+end_time: 1750072102369
+entry_point_name: ''
+experiment_id: '518517927355136816'
+lifecycle_stage: active
+run_id: 0c2b2e1e3de046ebb587204bd0c327c9
+run_name: eval_faq
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750072100888
+status: 4
+tags: []
+user_id: Usuario
